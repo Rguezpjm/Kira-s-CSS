@@ -57,7 +57,7 @@
 .sm{box-shadow: 0px 3px 6px rgb(0 0 0 / 10%);}.inset{inset: 0 100% 0 auto;}
 .top0{top: 0px;}.top10{top: 10px;}.top20{top: 20px;}.top30{top: 30px;}.top40{top: 40px;}.top50{top: 50px;}.top60{top: 60px;}.top70{top: 70px;}.top80{top: 80px;}.top90{top: 90px;}
 .gap-1{gap: .25rem;}.gap-2{gap: .50rem;}.gap-3{gap: .75rem;}.gap-4{gap: 1rem;}.gap10{gap: 10px;}.gap20{gap: 20px;}.gap30{gap: 30px;}
-.column1{grid-template-columns: 240px calc(100%-240px);}
+.column1{grid-template-columns: 240px calc(100%-240px);}.col2{grid-template-columns: repeat(2,1fr);}.col3{grid-template-columns: repeat(3,1fr);}.col4{grid-template-columns: repeat(4,1fr);}
 .grid-Colm-t100{grid-template-columns: 100%;}
 .border-box{box-sizing: border-box;}.border-none{border: none;}.content-box{box-sizing: content-box;}.border-bottom{border-bottom: 1px solid}
 .overflowy{overflow-y: auto;}.overflow-scroll{overflow-y: scroll;}.overflowy-hidden{overflow-y: hidden;}.overflow-auto{overflow: auto;}
