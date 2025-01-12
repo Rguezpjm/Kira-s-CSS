@@ -65,6 +65,7 @@
 .brrt10{border-top-right-radius: 10px;}.brrt20{border-top-right-radius: 20px;}.brrt30{border-top-right-radius: 30px;}.brrt40{border-top-right-radius: 40px;}.brrt50{border-top-right-radius: 50px;}
 .brbl10{border-bottom-left-radius: 10px;}.brbl20{border-bottom-left-radius: 20px;}.brbl30{border-bottom-left-radius: 30px;}.brbl40{border-bottom-left-radius: 40px;}.brbl50{border-bottom-left-radius: 50px;}
 .brbr10{border-bottom-right-radius: 10px;}.brbr20{border-bottom-right-radius: 20px;}.brbr30{border-bottom-right-radius: 30px;}.brbr40{border-bottom-right-radius: 40px;}.brbr50{border-bottom-right-radius: 50px;}
+.bb2{border-bottom-width: 2px;}.bb4{border-bottom-width: 4px;}.bb6{border-bottom-width: 6px;}.bb8{border-bottom-width: 8px;}.bb10{border-bottom-width: 10px;}
 
 /*types of Float & Aligments*/
 .fright{float: right;}.fleft{float: left;}.fnone{float: none;}
