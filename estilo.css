@@ -69,7 +69,7 @@
 .brbr10{border-bottom-right-radius: 10px;}.brbr20{border-bottom-right-radius: 20px;}.brbr30{border-bottom-right-radius: 30px;}.brbr40{border-bottom-right-radius: 40px;}.brbr50{border-bottom-right-radius: 50px;}
 .bb2{border-bottom-width: 2px;}.bb4{border-bottom-width: 4px;}.bb6{border-bottom-width: 6px;}.bb8{border-bottom-width: 8px;}.bb10{border-bottom-width: 10px;}
 .object-contain{object-fit: contain;}.object-cover{object-fit: cover;}.object-fill{object-fit: fill;}.opleft{object-position: left;}.opright{object-position: right;}
-.bb2-black{border-bottom: 2px #232325;}
+.bb2-black{background: linear-gradient(to bottom, transparent 49%, #000 50%, transparent 51%);}
 
 /*types of Float & Aligments*/
 .fright{float: right;}.fleft{float: left;}.fnone{float: none;}
