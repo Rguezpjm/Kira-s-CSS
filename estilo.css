@@ -59,7 +59,7 @@
 .column1{grid-template-columns: 240px calc(100%-240px);}
 .grid-Colm-t100{grid-template-columns: 100%;}
 .border-box{box-sizing: border-box;}.border-none{border: none;}.content-box{box-sizing: content-box;}.border-bottom{border-bottom: 1px solid}
-.overflowy{overflow-y: auto;}.overflow-scroll{overflow-y: scroll;}.overflowy-hidden{overflow-y: hidden;}
+.overflowy{overflow-y: auto;}.overflow-scroll{overflow-y: scroll;}.overflowy-hidden{overflow-y: hidden;}.overflow-auto{overflow: auto;}
 .overflowx{overflow-x: auto;}.overflowx-scroll{overflow-x: scroll;}.overflowx-hidden{overflow-x: hidden;}
 .aside{width: var(--aside-widht);}
 .br-10{border-radius: 10%;}.br-20{border-radius: 20%;}.br-30{border-radius: 30%;}.br-40{border-radius: 40%;}.br-50{border-radius: 50%;}
