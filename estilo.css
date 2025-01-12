@@ -49,6 +49,7 @@
 .fixed{position: fixed;}.absolute{position: absolute;}.sticky{position: sticky;}.relative{position: relative;}.static{position: static;}
 .m0{margin: 0;}.m10{margin: 10px;}.m20{margin: 20px;}.m30{margin: 30px;}.m40{margin: 40px;}.m50{margin: 50px;}.m60{margin: 60px;}.m70{margin: 70px;}.m80{margin: 80px;}
 .mt10{margin-top: 10px;}.mt20{margin-top: 20px;}.mt30{margin-top: 30px;}.mt40{margin-top: 40px;}.mt50{margin-top: 50px;}
+.m1auto{margin-left: auto;}.mrauto{margin-right: auto;}
 .align-center{align-items: center;}
 
 /*More Dependences*/
