@@ -438,3 +438,15 @@
   [hidden] {
     display: none;
   }
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: var(--txt-gray);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dot:hover {
+  background-color: var(--txt-brillant-green);
+}
